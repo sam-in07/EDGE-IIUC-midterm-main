@@ -1,0 +1,27 @@
+<section class="bg-[#F9B800] h-[85vh] px-6 lg:px-36 relative">
+            <div class="absolute inset-6 lg:inset-36 -translate-y-1/2 md:-translate-y-[40%] flex items-center justify-center">
+                <div class="flex flex-col border lg:flex-row justify-center items-center bg-[#fff] gap-20 rounded-[4.5rem] px-4 lg:px-20 py-10">
+                    <div class="avatar w-auto">
+                        <div class="w-40 lg:w-72 rounded-full">
+                          <img src="desktop/male-photo.png" />
+                        </div>
+                    </div>
+                    <div class="space-y-5 w-auto">
+                        <h1 class="text-[40px] lg:text-[50px] font-[700]">
+                            What our customers thought?
+                        </h1>
+                        <p class="text-[20px] lg:text-[30px] font-[400]">
+                            Euismod magna id purus eget nunc ligula suspendisse dui netus. Condimentum blandit rutrum at mauris enim pulvinar duis etiam duis. 
+                        </p>
+                        <h1 class="text-[14px] lg:text-[1.5rem] font-[700]">
+                            Holly Davidson
+                        </h1>
+                        <div class="flex justify-start items-center gap-10">
+                            <img src="desktop/trending-flat-left-black.png" alt="">
+                            <img src="desktop/trending-flat-right.png" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+        </section>

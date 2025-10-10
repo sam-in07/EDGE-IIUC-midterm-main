@@ -18,3 +18,6 @@ Possibly a subheadline or some supporting text
 
 
 [Grid Tailwind Css Doc](https://tailwindcss.com/docs/grid-template-rows)
+
+
+h-[85vh]: Sets the height to 85% of the viewport height.
