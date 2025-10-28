@@ -24,5 +24,13 @@ h-[85vh]: Sets the height to 85% of the viewport height.
 
 [Container ](https://daisyui.com/components/card/)
 
-
+[collapse](https://daisyui.com/components/collapse/)
 [Accordion with plus/minus icon](https://daisyui.com/components/accordion/)
+
+
+[Avater](https://daisyui.com/components/avatar/)
+
+[Flex](https://tailwindcss.com/docs/flex)
+
+[BG](https://tailwindcss.com/docs/background-size)
+[Justify content](https://tailwindcss.com/docs/justify-content)
