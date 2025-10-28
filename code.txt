@@ -24,4 +24,80 @@
                 </div>
             </div>
             
+</section>
+        <!-- -- -->
+        <section style="background-color: #262626;">
+            <div class="mx-7 sm:mx-16 py-16">
+              <h3 class="mt-12 text-center text-white font-bold text-4xl sm:text-center">Quam vehicula faucibus amet lorem.
+              </h3>
+              <p class="my-8 text-center text-xl font-semibold text text-white">Euismod magna id purus eget nunc ligula
+                suspendisse dui netus. Condimentum blandit rutrum at mauris enim pulvinar duis etiam duis. Mauris fermentum
+                praesent tellus euismod.</p>
+              <div class="flex flex-col gap-4 text-black">
+        
+                <div class="collapse collapse-plus bg-white">
+                  <input type="radio" name="my-accordion-3" checked="checked" />
+                  <div class="collapse-title text-xl font-medium">Quam vehicula faucibus amet lorem. </div>
+                  <div class="collapse-content">
+                    <p>Euismod magna id purus eget nunc ligula suspendisse dui netus. Condimentum blandit rutrum at mauris enim
+                      pulvinar duis etiam duis. Mauris fermentum praesent tellus euismod.</p>
+                  </div>
+                </div>
+        
+                <div class="collapse collapse-plus bg-white">
+                  <input type="radio" name="my-accordion-3" />
+                  <div class="collapse-title text-xl font-medium">Pellentesque tempus sed phasellus vel. </div>
+                  <div class="collapse-content">
+                    <p>Euismod magna id purus eget nunc ligula suspendisse dui netus. Condimentum blandit rutrum at mauris enim
+                      pulvinar duis etiam duis. Mauris fermentum praesent tellus euismod.</p>
+                  </div>
+                </div>
+        
+                <div class="collapse collapse-plus bg-white">
+                  <input type="radio" name="my-accordion-3" />
+                  <div class="collapse-title text-xl font-medium">Mauris fermentum praesent tellus euismod pellentesque urna ac
+                    massa in. </div>
+                  <div class="collapse-content">
+                    <p>Euismod magna id purus eget nunc ligula suspendisse dui netus. Condimentum blandit rutrum at mauris enim
+                      pulvinar duis etiam duis. Mauris fermentum praesent tellus euismod.</p>
+                  </div>
+                </div>
+                <div class="collapse collapse-plus bg-white">
+                  <input type="radio" name="my-accordion-4" />
+                  <div class="collapse-title text-xl font-medium">Vulputate et vulputate suspendisse natoque id tellus
+                    consectetur pulvinar et. </div>
+                  <div class="collapse-content">
+                    <p>Euismod magna id purus eget nunc ligula suspendisse dui netus. Condimentum blandit rutrum at mauris enim
+                      pulvinar duis etiam duis. Mauris fermentum praesent tellus euismod.</p>
+                  </div>
+                </div>
+              </div>
+        
+            </div>
         </section>
+        <section class="" style="background-color: #FEEDBC;">
+            <div class="text-black mx-7 sm:mx-16 py-8">
+              <div class="flex flex-col items items-center md:justify-between md:flex-row">
+                <h5 class="text-black font-semibold text-2xl md:text-xl"> Vulputate et vulputate suspendisse natoque id tellus
+                  consectetur
+                  pulvinar et. </h5>
+                <button class="md:w-fit mt-5 text-black rounded-full flex md:gap-20 items-center justify-between w-full p-5"
+                  style="background-color: #F9B800;">
+                  Lorem Ipsum
+                  <img src="desktop/right-arrow.png"> </button>
+              </div>
+              <hr class="w-full bg-gray-500 my-8">
+              <div class="flex flex-col justify-between  gap-3 text-sm sm:flex-row">
+                <p>
+                  Copyright © 2022 Lorem Ipsum.
+                </p>
+                <p>Privacy Policy | Terms and Conditions
+                </p>
+              </div>
+        
+            </div>
+        
+          </section>
+    </main>
+</body>
+</html>
